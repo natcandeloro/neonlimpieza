@@ -1,0 +1,20 @@
+.header {
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 200px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    display: flex;
+    padding: 20px;
+    font-size: 18px;
+}
