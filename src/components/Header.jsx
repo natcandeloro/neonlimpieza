@@ -1,5 +1,6 @@
 import '../assets/css/header.css';
 import Logo from '../assets/statics/logo.png'
+import Somos from './somos';
 
 
 function Header() {
@@ -11,7 +12,9 @@ function Header() {
                 <li>Servicios</li>
                 <li>Presupuestos</li>
             </ul>
+            <Somos></Somos>
         </div>
+        
     );
 }
 

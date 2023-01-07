@@ -1,9 +1,12 @@
 import './App.css';
-import Footer from './components/Footer';
+import "react-router-dom";
+import Somos from './components/somos';
 import Header from './components/Header';
 function App() {
   return (
+
     <Header></Header>
+    
   );
 }
 

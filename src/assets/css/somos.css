@@ -1,0 +1,48 @@
+.foto1 {
+    height: 400px;
+}
+
+.dos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.dosp {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.uno { 
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: blue;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.servicios { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url(../statics/horinzontal1.jpg);
+    background-size: cover;
+    height: 800px;
+    padding: 50px;
+}
+
+h1 { 
+    text-align: left;
+    background-color: white;
+    color: #1565c0;
+    padding: 5px;
+    
+}
+
+.row {
+    padding: 50px;
+}
